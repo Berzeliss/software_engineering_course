@@ -67,7 +67,18 @@ Use a good **IDE** and get fluent with it: e.g. VSCode, IntelliJ. What are you
     - functions as parameters and return values
     - use closures / anonymous functions
     
-  You can also do it outside of your project. Even in other languages such as F#, Clojure, Julia, etc.
+You can also do it outside of your project. Even in other languages such as F#, Clojure, Julia, etc.
     
-  #### Task 15
-  Do all the Vibe Code / Assisted Code / Agentic Coding Tasks! (counts double)
+#### Task 15
+Do all the Vibe Code / Assisted Code / Agentic Coding Tasks! (counts double)
+
+A) Create / **Vibe a GUI** for a project idea belonging to the
+next points. Ideal: **Google Stitch**! Show your prompts in GitHub.
+
+B) **Vibe** a bigger / **middle-sized Pet-Project**!
+Ideas: Password manager, personal ToDo Manager (!), App for your club, etc. (see Edlichs examples). Use Lovable!
+C) Now use either a **CLI or a Visual Studio Code clone**! (but prove you have installed and used the other one!)
+
+Code **a bigger distributed app** (!) that you understand completely! (Examples: secure messenger ?!, AI has ideas here!) The app must consist of separate modules!
+Prove that you **understood** the code completely!
+Develop small steps: step-by-step using md-Files
