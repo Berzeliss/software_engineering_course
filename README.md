@@ -20,8 +20,6 @@ Software_Engineering/
     ├── Task_11/
     ├── Task_12/
     ├── Task_13/
-    ├── Task_14/
-    └── Task_15/
 ```
 
 ## SOFTWARE ENGINEERING TASKS
