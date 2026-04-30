@@ -78,3 +78,6 @@ Each iteration includes:
 
 ---
 
+### AI Usage
+
+AI was used to find an idea for a project and to structure the requirements/constitution/iterations.
