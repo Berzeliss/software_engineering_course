@@ -32,12 +32,27 @@ Make sure each person has applied the following topics on the code that have bee
 
 #### Task 1
 Use and understand **GIT,** and be able to apply the basic commands. Can you experiment with time-travelling or branches/merges? E.g. add some screenshots, add a paragraph of text or show by reference/link into the commits, that you applied all the commands.
+
+To access my task: [Open file](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_1/git_usage.md)
 #### Task 2
 **REQUIREMENTS**: 
     1. Create 5-10 good requirements for your project. Then put them into a **simple tool** (like Airtable, Notion or Trello) and 
     2. a **professional tool** (like Monday, Jira, Doors, ObjectIF, Xebrio, etc.) Instead of the professional version, **you can also build / vibe a tool yourself, e.g. with AI**!! If you have used AI / LLMs here, briefly describe where and how! However, it is more important here that some / **many attributes** are used!
     3. Create a **constitution** for your new (start-up) project. And 2-3 **specification**+**validation** md Documents for the first 2-3 iterations!
-#### Task 3 
+
+To access my task:
+**README**: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_2/README.md)
+
+**Requirements inside notion and jira**: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_2/01-requirements/requirements.md)
+
+**Constitution**: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_2/02-constitution/consitution.md)
+
+**Iteration 1**: [Open Folder](https://github.com/Berzeliss/software_engineering_course/tree/main/B/Task_2/03-iterations/iteration1)
+
+**Iteration 2**: [Open Folder](https://github.com/Berzeliss/software_engineering_course/tree/main/B/Task_2/03-iterations/iteration2)
+
+**Iteration 3**: [Open Folder](https://github.com/Berzeliss/software_engineering_course/tree/main/B/Task_2/03-iterations/iteration3)
+#### Task 3
 **ANALYSIS**:  
     1. Carry out a classic analysis of your semester project / your favourite project (start-up). Or have a start-up idea and would like to hand in the start-up analysis as part of a large documentary! There should be around 2 pages. Take the 10-15 points from the checklist (with e.g. 1-2 paragraphs per point). Assume that you will soon have a fishing rod for the start-up chapter. If you are successful, you would receive a lot of ‘money’ in order to be allowed to design and implement it later. So get your start-up off to a successful start! The use of large language models is explicitly encouraged here! However, don't try to solve everything with one prompt and then submit 10 pages: **get specific help**! (Provide the prompts in brackets that have helped you to improve or structure something here! Please find the sweet spot between your own work/testing and content generation in order to learn something yourself throughout the entire process!
     2. Try the same for an AI (start-up) project which includes AI! You can use fewer analysis points for the classic part and hence more parts for the AI-specific parts! (see the AI analysis slides for ideas)
