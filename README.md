@@ -67,7 +67,9 @@ To access my task:
 
 To access my task: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_4/diagrams.md)
 #### Task 5
-A) **DDD**: **(A)** Do an Event-Storming to find your Domains! If your domain is too small, invent other domains around and document these domains (as if you have 100 Mio € from Edlich-Investment!) **(B)**. Drop your Domains into a Core Domain Chart **(C)** and indicate the Relations = Mappings (! see MIRO examples again) between the Domains in a new diagram!
+A) **DDD**: **(A)** Do an Event-Storming to find your Domains! If your domain is too small, invent other domains around and document these domains (as if you have 100 Mio € from Edlich-Investment!) **(B)**. Drop your Domains into a Core Domain Chart **(C)** and indicate the Relations = Mappings (! see MIRO examples again) between the Domains in a new diagram. Finally, make one Bounded Domain Canvas for one domain.
+
+To access my task: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_5/DDD.md)
 #### Task 6
 **METRICS:** at least two. Sonarcube would be great. Other non-trivial metrics are also fine. Run the tools, document the output with screenshots, and explain what these Metrics or e.g. style errors mean!
 #### Task 7
