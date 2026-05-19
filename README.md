@@ -63,7 +63,9 @@ To access my task:
 
 **AI STARTUP ANALYSIS**: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_3/AI.md)
 #### Task 4
-UML: at least 3 big different diagrams. "big" means you can pump it up artificially, as written in DDD. You have 10 million $ from me! Please export the pics. I can not install all the tools to view them! For example, these diagrams are a good idea: Use-Case, Component D, Class D, and Activity Diagram.
+***UML***: at least ***3 big*** different diagrams (not asking AI!). "big" means you can pump it up artificially, as written in DDD. You have 10 million $ from me! Please export the pics. I can not install all the tools to view them! For example, these diagrams are a good idea: Use-Case (10-20), Component D, Class D (***MANDATORY!***), and Activity Diagram.
+
+To access my task: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_4/diagrams.md)
 #### Task 5
 A) **DDD**: **(A)** Do an Event-Storming to find your Domains! If your domain is too small, invent other domains around and document these domains (as if you have 100 Mio € from Edlich-Investment!) **(B)**. Drop your Domains into a Core Domain Chart **(C)** and indicate the Relations = Mappings (! see MIRO examples again) between the Domains in a new diagram!
 #### Task 6
