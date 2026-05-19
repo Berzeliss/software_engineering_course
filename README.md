@@ -56,6 +56,12 @@ To access my task:
 **ANALYSIS**:  
     1. Carry out a classic analysis of your semester project / your favourite project (start-up). Or have a start-up idea and would like to hand in the start-up analysis as part of a large documentary! There should be around 2 pages. Take the 10-15 points from the checklist (with e.g. 1-2 paragraphs per point). Assume that you will soon have a fishing rod for the start-up chapter. If you are successful, you would receive a lot of ‘money’ in order to be allowed to design and implement it later. So get your start-up off to a successful start! The use of large language models is explicitly encouraged here! However, don't try to solve everything with one prompt and then submit 10 pages: **get specific help**! (Provide the prompts in brackets that have helped you to improve or structure something here! Please find the sweet spot between your own work/testing and content generation in order to learn something yourself throughout the entire process!
     2. Try the same for an AI (start-up) project which includes AI! You can use fewer analysis points for the classic part and hence more parts for the AI-specific parts! (see the AI analysis slides for ideas)
+
+To access my task:
+
+**CLASSIC STARTUP ANALYSIS**: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_3/classic.md)
+
+**AI STARTUP ANALYSIS**: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_3/AI.md)
 #### Task 4
 UML: at least 3 big different diagrams. "big" means you can pump it up artificially, as written in DDD. You have 10 million $ from me! Please export the pics. I can not install all the tools to view them! For example, these diagrams are a good idea: Use-Case, Component D, Class D, and Activity Diagram.
 #### Task 5
