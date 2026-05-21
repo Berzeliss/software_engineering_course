@@ -75,7 +75,9 @@ To access my task: [Open File](https://github.com/Berzeliss/software_engineering
 
 To access my task: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_6/clean_coding.md)
 #### Task 7
-**CLEAN CODE DEVELOPMENT:** A) At least 5 points you can show me with an explanation of why this is clean code in your code and/or what has improved & B) >>10 points on your personal CCD cheat sheet. E.g. a PDF.
+**REFACTORING:** Show me two (non-trivial) Refactoring Examples of your code! Showing the original content and the refactored code! Explain what happened, why and how it has improved! Again: do not send me pure AI work! E.g. show where you failed!
+
+To access my task: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_7/refactoring.md)
 #### Task 8
 **REFACTORING**: Show me two (non-trivial) Refactoring Examples of your code! Showing the original content and the refactored code! Explain what happened, why and how it has improved! Again: do not send me pure AI work!
 #### Task 9
