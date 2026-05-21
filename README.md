@@ -71,7 +71,9 @@ A) **DDD**: **(A)** Do an Event-Storming to find your Domains! If your domain is
 
 To access my task: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_5/DDD.md)
 #### Task 6
-**METRICS:** at least two. Sonarcube would be great. Other non-trivial metrics are also fine. Run the tools, document the output with screenshots, and explain what these Metrics or e.g. style errors mean!
+**CLEAN CODE DEVELOPMENT:** A) At least 5 points you can show me with an explanation of why this is clean code in your code and/or what has improved & B) >>10 points on your personal CCD cheat sheet. E.g. a PDF. (Your Code Available)
+
+To access my task: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_6/clean_coding.md)
 #### Task 7
 **CLEAN CODE DEVELOPMENT:** A) At least 5 points you can show me with an explanation of why this is clean code in your code and/or what has improved & B) >>10 points on your personal CCD cheat sheet. E.g. a PDF.
 #### Task 8
