@@ -83,7 +83,13 @@ To access my task: [Open File](https://github.com/Berzeliss/software_engineering
 
 To access my task: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_8/testing.md)
 #### Task 9
-**BUILD** Management with any Build System as Ant, Maven, Gradle, etc. (only Travis is perhaps not enough) Do e.g. generate Docs, call tests, etc. (it could also be disconnected from the project just to learn a build tool!) => to be merged with 7!
+**BUILD** Management with any Build System as Ant, Maven, Gradle, etc. (only Travis is perhaps not enough). Do e.g. generate Docs, call tests, etc. (it could also be disconnected from the project, just to learn a build tool!). Don’t send me pure AI. Show me where you failed!
+
+To access my task:
+
+**DOCUMENTATION**: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_9/build.md)
+
+**MARVEN FOLDER**: [Open Folder](https://github.com/Berzeliss/software_engineering_course/tree/main/B/Task_9/maven_run/demo-build)
 #### Task 10
 **CONTINOUS DELIVERY:** show me your pipeline using e.g. **Jenkins**, **GitHub Actions**, GitLab CI, etc. E.g. you can also use Jenkins Pipelining or BlueOcean, etc. But at least insert more than 2 script calls as done in the lecture! (e.g. also call Ant or Gradle or something else).
 #### Task 11
