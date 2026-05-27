@@ -79,7 +79,9 @@ To access my task: [Open File](https://github.com/Berzeliss/software_engineering
 
 To access my task: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_7/refactoring.md)
 #### Task 8
-**REFACTORING**: Show me two (non-trivial) Refactoring Examples of your code! Showing the original content and the refactored code! Explain what happened, why and how it has improved! Again: do not send me pure AI work!
+***TESTING:** **A)** Integrate some nice **UNIT TESTS** in your Code to be integrated into the Build! And give me a running example, first one example without AI and one with AI! How could a test for an exception work? (e.g. if an invalid value is passed?) **B)** Do either TDD or create a new Mock that makes sense in your context!
+
+To access my task: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_8/testing.md)
 #### Task 9
 **BUILD** Management with any Build System as Ant, Maven, Gradle, etc. (only Travis is perhaps not enough) Do e.g. generate Docs, call tests, etc. (it could also be disconnected from the project just to learn a build tool!) => to be merged with 7!
 #### Task 10
