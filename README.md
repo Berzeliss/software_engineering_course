@@ -92,6 +92,8 @@ To access my task:
 **MARVEN FOLDER**: [Open Folder](https://github.com/Berzeliss/software_engineering_course/tree/main/B/Task_9/maven_run/demo-build)
 #### Task 10
 **CONTINOUS DELIVERY:** show me your pipeline using e.g. **Jenkins**, **GitHub Actions**, GitLab CI, etc. E.g. you can also use Jenkins Pipelining or BlueOcean, etc. But at least insert more than 2 script calls as done in the lecture! (e.g. also call Ant or Gradle or something else).
+
+To access my task: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_10/continuous_delivery.md)
 #### Task 11
 Integrate some nice **UNIT TESTS** in your Code to be integrated into the Build!
 #### Task 12
