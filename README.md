@@ -95,16 +95,15 @@ To access my task:
 
 To access my task: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_10/continuous_delivery.md)
 #### Task 11
-Integrate some nice **UNIT TESTS** in your Code to be integrated into the Build!
+**METRICS:** at least **two**. Sonarcube would be great. Other non-trivial metrics are also fine. Run the tools, document the output with screenshots, and explain what these Metrics or e.g. style errors mean!
+
+To access my task:
+
+**DOCUMENTATION:** [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_11/metrics.md)
+
+**CODE USED:** [Open Folder](https://github.com/Berzeliss/software_engineering_course/tree/main/B/Task_11/metrics_code)
 #### Task 12
-**FUNCTIONAL PROGRAMMING:** prove that you have covered all functional aspects in your code as:
-    - only final data structures
-    - (mostly) side-effect-free functions
-    - the use of higher-order functions
-    - functions as parameters and return values
-    - use closures / anonymous functions
-    
-You can also do it outside of your project. Even in other languages such as F#, Clojure, Julia, etc.
+**ARCHITECTURE**: Create a brilliant checklist of at least 10-20 points from the architecture lecture you would use as the Chief-Architect for the next software project of your company! **OR even better** do one Architecture Communication Canvas for any software you can imagine or your pet project (or even the other canvas from [here](https://canvas.arc42.org/))
     
 #### Task 13
 Do all the Vibe Code / Assisted Code / Agentic Coding Tasks! (counts double)
