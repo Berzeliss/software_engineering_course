@@ -104,6 +104,8 @@ To access my task:
 **CODE USED:** [Open Folder](https://github.com/Berzeliss/software_engineering_course/tree/main/B/Task_11/metrics_code)
 #### Task 12
 **ARCHITECTURE**: Create a brilliant checklist of at least 10-20 points from the architecture lecture you would use as the Chief-Architect for the next software project of your company! **OR even better** do one Architecture Communication Canvas for any software you can imagine or your pet project (or even the other canvas from [here](https://canvas.arc42.org/))
+
+To access my task: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_12/architecture.md)
     
 #### Task 13
 Do all the Vibe Code / Assisted Code / Agentic Coding Tasks! (counts double)
