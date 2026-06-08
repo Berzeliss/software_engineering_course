@@ -131,7 +131,7 @@ The identified domains were classified into Core, Supporting, and Generic Domain
 
 ### Visual Chart
 
-![My Photo](/B/Task_5/images/chart.png)
+![My Photo](/B/Task_5/images/domain_chart.png)
 
 ## Part C: Mappings
 The following context map shows the relationships and integrations between the identified domains of the Online Multiplayer Gaming Platform.
