@@ -108,7 +108,7 @@ To access my task:
 To access my task: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_12/architecture.md)
     
 #### Task 13
-Do all the Vibe Code / Assisted Code / Agentic Coding Tasks! (counts double)
+**Do all the Vibe Code / Assisted Code / Agentic Coding Tasks!** (counts double)
 
 A) Create / **Vibe a GUI** for a project idea belonging to the
 next points. Ideal: **Google Stitch**! Show your prompts in GitHub.
@@ -120,3 +120,23 @@ C) Now use either a **CLI or a Visual Studio Code clone**! (but prove you have i
 Code **a bigger distributed app** (!) that you understand completely! (Examples: secure messenger ?!, AI has ideas here!) The app must consist of separate modules!
 Prove that you **understood** the code completely!
 Develop small steps: step-by-step using md-Files
+
+To access my task:
+
+**A**:
+
+*CODE*: [Open Folder](https://github.com/Berzeliss/software_engineering_course/tree/main/B/Task_13/A/code)
+
+*DOCUMENTATION*: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_13/A/documentation.md)
+
+**B**:
+
+*CODE*: [Open Folder](https://github.com/Berzeliss/software_engineering_course/tree/main/B/Task_13/B/code)
+
+*DOCUMENTATION*: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_13/B/documentation.md)
+
+**C**:
+
+*CODE*: [Open Folder](https://github.com/Berzeliss/software_engineering_course/tree/main/B/Task_13/C/code)
+
+*DOCUMENTATION*: [Open File](https://github.com/Berzeliss/software_engineering_course/blob/main/B/Task_13/C/documentation.md)
