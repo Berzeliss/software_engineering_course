@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StudyQuest — Profile</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ========== NAVIGATION ========== -->
+  <nav class="navbar">
+    <div class="container">
+      <div class="nav-brand">
+        <span class="brand-icon">⚔️</span>
+        <span>StudyQuest</span>
+      </div>
+      <ul class="nav-links">
+        <li><a href="index.html">📊 Dashboard</a></li>
+        <li><a href="tasks.html">📜 Quests</a></li>
+        <li><a href="profile.html">👤 Profile</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- ========== MAIN ========== -->
+  <main class="container">
+
+    <!-- Page Header -->
+    <div class="page-header">
+      <h1>👤 Profile</h1>
+      <p>Your hero journey at a glance</p>
+    </div>
+
+    <!-- Profile Card -->
+    <div class="profile-card">
+      <div class="profile-avatar">🧙</div>
+      <div class="profile-name" id="profile-name">Hero Adventurer</div>
+      <div class="profile-level">Level <span id="profile-level">0</span> &mdash; Apprentice</div>
+
+      <div class="profile-stats">
+        <div class="profile-stat">
+          <div class="value" id="profile-xp">0</div>
+          <div class="label">Total XP</div>
+        </div>
+        <div class="profile-stat">
+          <div class="value" id="profile-streak">0</div>
+          <div class="label">Day Streak</div>
+        </div>
+        <div class="profile-stat">
+          <div class="value" id="profile-tasks">0</div>
+          <div class="label">Tasks Done</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Achievements / Badges -->
+    <div class="card">
+      <div class="card-title">🏅 Achievements &amp; Badges</div>
+      <div class="badges-grid" id="badges-grid">
+        <!-- Populated by JavaScript -->
+      </div>
+    </div>
+
+  </main>
+
+  <!-- ========== FOOTER ========== -->
+  <footer class="footer">
+    <div class="container">
+      StudyQuest &mdash; Level up your learning ⚔️
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -38,7 +38,7 @@ The application consists of three main pages:
 - checkbox interaction to mark completion
 - XP and level update dynamically
 
-![Tasks](images/tasks.png)
+![Tasks](images/quests.png)
 
 ---
 
