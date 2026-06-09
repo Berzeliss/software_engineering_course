@@ -188,3 +188,50 @@ This demonstrates:
 - API Gateway routing pattern
 - Distributed system communication
 - Persistent data handling across services
+
+## 12. Prompt used
+
+Here is the promp i used:
+
+>Refactor this existing StudyQuest full-stack application into a distributed system.
+>
+>DO NOT change the frontend UI or redesign the app.
+>
+>Current system:
+>- Frontend (HTML/CSS/JS)
+>- Node.js Express backend (single server with all logic)
+>- JSON file storage (data.json)
+>
+>Required transformation:
+>
+>Split the backend into 3 separate services:
+>
+>1. Task Service (port 3001)
+>- Handles all task CRUD operations
+>- GET /tasks
+>- POST /tasks
+>- PUT /tasks/:id
+>- DELETE /tasks/:id
+>
+>2. User Service (port 3002)
+>- Handles user data (XP, streak)
+>- GET /user
+>- POST /user/xp
+>- POST /user/streak
+>
+>3. API Gateway (port 3000)
+>- Acts as the ONLY entry point for the frontend
+>- Forwards requests to Task Service or User >Service
+>- Frontend must ONLY communicate with the API Gateway
+>
+>Rules:
+>- Keep frontend unchanged visually
+>- Only update API URLs in frontend to point to API Gateway
+>- Use Express for all services
+>- Keep implementation simple (no Docker, no Kubernetes)
+>- Each service should run independently on its own port
+>
+>Goal:
+>Transform this into a distributed system with clear separation of concerns while keeping functionality identical. 
+>
+>THIS HAS TO BE DONE IN THIS FOLDER: software_engineering_course -> B -> Task_13 -> C -> code
