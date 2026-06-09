@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Finish Math Homework",
+      "desc": "Chapter 5 — Algebra",
+      "xp": 120,
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Read History Chapter 4",
+      "desc": "Pages 85–110",
+      "xp": 90,
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Physics Lab Report",
+      "desc": "Write conclusion & analysis",
+      "xp": 150,
+      "completed": true
+    },
+    {
+      "id": 4,
+      "title": "Study for Spanish Quiz",
+      "desc": "Vocabulary unit 3",
+      "xp": 80,
+      "completed": true
+    },
+    {
+      "id": 5,
+      "title": "CS Programming Exercise",
+      "desc": "Linked lists in Python",
+      "xp": 200,
+      "completed": false
+    },
+    {
+      "id": 6,
+      "title": "Review Biology Notes",
+      "desc": "Photosynthesis & respiration",
+      "xp": 60,
+      "completed": false
+    }
+  ]
+}
