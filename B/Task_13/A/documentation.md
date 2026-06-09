@@ -97,3 +97,51 @@ No backend or database is used.
 ## 9. Summary
 
 This part of the task demonstrates AI-assisted frontend development using GitHub Copilot and DeepSeek.
+
+## 10. Prompt Used
+
+Here is the prompt that i used:
+
+>Create a simple frontend-only UI for a project called "StudyQuest".
+>
+>The goal is to design a gamified student productivity dashboard using only:
+>- HTML
+>- CSS
+>- vanilla JavaScript
+>
+>Do NOT use any frameworks (no React, no Vue, no Tailwind).
+>
+>The project should have 3 pages:
+>
+>1. Dashboard (index.html):
+>- XP progress bar
+>- current level display
+>- daily streak counter
+>- list of active tasks (mock data only)
+>
+>2. Tasks page (tasks.html):
+>- list of tasks (quests)
+>- each task has a title and XP reward
+>- checkbox to mark completion (frontend only, no backend)
+>
+>3. Profile page (profile.html):
+>- total XP
+>- user level
+>- simple achievements/badges section
+>
+>Design requirements:
+>- dark theme
+>- clean modern UI
+>- gamified RPG-style aesthetic
+>- card-based layout
+>- simple hover effects
+>
+>Technical requirements:
+>- use separate CSS file (style.css)
+>- use minimal JavaScript for UI interactions only
+>- use mock data inside JavaScript arrays
+>- no backend or database
+>
+>Make it structured and easy to understand, as this is an AI-assisted coding assignment. 
+>
+>THIS HAS TO BE DONE IN THIS FOLDER: software_engineering_course -> B -> Task_13 -> A -> code
